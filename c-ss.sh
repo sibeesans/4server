@@ -1,3 +1,5 @@
+#!/bin/bash
+# ANSI Escape Code
 NC='\e[0m'
 DEFBOLD='\e[39;1m'
 RB='\e[31;1m'
